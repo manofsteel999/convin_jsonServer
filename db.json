@@ -1,0 +1,49 @@
+{
+    "buckets": [
+      {
+        "id": 1,
+        "name": "Entertainment Videos"
+      },
+      {
+        "id": 2,
+        "name": "Colorful Videos"
+      },
+      {
+        "name": "Hateful Videoc",
+        "id": 3
+      }
+    ],
+    "cards": [
+      {
+        "id": 1,
+        "name": "Funny Video",
+        "url": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+        "bucketId": 1
+      },
+      {
+        "id": 2,
+        "name": "Music Video",
+        "url": "https://www.youtube.com/embed/kJQP7kiw5Fk",
+        "bucketId": 1
+      },
+      {
+        "id": 3,
+        "name": "Gaming Video",
+        "url": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+        "bucketId": 2
+      },
+      {
+        "id": 4,
+        "name": "Comedy Video",
+        "url": "https://www.youtube.com/embed/kJQP7kiw5Fk",
+        "bucketId": 2
+      },
+      {
+        "name": "Horror Video",
+        "url": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+        "bucketId": "1",
+        "id": 5
+      }
+    ],
+    "history": []
+  }
